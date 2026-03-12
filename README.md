@@ -39,6 +39,14 @@ Both platforms were previously deployed manually in the `eu-west-3` (Paris) regi
 | **IAM Role** | EC2 instance role with SSM and CloudWatch agent policies |
 | **Provisioners** | Remote deployment via SSH: Docker install, EBS mount, app bootstrap |
 
+### Infrastructure Diagram
+
+![INFRA EAZYTraining](INFRA%20EAZYTraining.png)
+
+### Other Applications
+
+![OTHER APPs EAZYTraining](OTHER%20APPs%20EAZYTraining.png)
+
 ---
 
 ## Repository Structure
